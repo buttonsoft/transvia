@@ -126,7 +126,8 @@ a {
 }
 
 a:hover {
-  color: #3EC1D5;
+  /*color: #3EC1D5;*/
+  color: #3366FF;
   text-decoration: none;
 }
 
@@ -149,7 +150,7 @@ body {
   position: fixed;
   display: none;
   /*background: #3EC1D5;*/
-  background: #00FF00;
+  background: #3366FF;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -167,14 +168,14 @@ body {
 
 .back-to-top:focus {
   /*background: #3EC1D5;*/
-  background: #00FF00;
+  background: #0000FF;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
   /*background: #3cd6ed;*/
-  background: #32CD32;
+  background: #0000FF;
   color: #fff;
 }
 
@@ -268,7 +269,8 @@ div#preloader {
   width: 100%;
   height: auto;
   /*background: rgba(0, 0, 0, 0.40);*/
-  background: rgba(63, 255, 128, 0.90);
+  background: #3333FF;
+  /*background: #3366FF;*/
   z-index: 9;
 }
 
@@ -319,8 +321,7 @@ div#preloader {
 
 .main-menu ul.navbar-nav li a:hover {
   /*color: #3EC1D5;*/
-  /*color: #4682B4;*/
-  color: #4169E1;
+  color: #000099;
 }
 
 .navbar {
@@ -381,7 +382,8 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: rgba(0, 204, 0, 0.8);
+  /*background-color: rgba(0, 204, 0, 0.8);*/
+  background-color: #3366FF;
   height: 70px;
   position: fixed;
   top: 0;
@@ -424,12 +426,14 @@ div#preloader {
 }
 
 .stick .main-menu ul.nav>li>a:hover {
-  color: #fff;
+  /*color: #fff;*/
+  color: #000099;
 }
 
 .stick .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #fff;
+  /*color: #fff;*/
+  color: #000099;
   position: relative;
 }
 
@@ -520,7 +524,7 @@ div#preloader {
 }
 
 .services-details:hover h4, .services-details:hover .services-icon {
-  color: #3EC1D5;
+  color: #3366FF;
 }
 
 .row.second-row {
@@ -1672,8 +1676,10 @@ div#preloader {
 
 .contact-form button[type=submit]:hover {
   color: #fff;
-  border: 1px solid #32CD32;
-  background: #32CD32;
+  /*border: 1px solid #32CD32;*/
+  border: 1px solid #3366FF;
+  /*background: #32CD32;*/
+  background: #3366FF;
 }
 
 .contact-form  #sendmessage {

@@ -68,11 +68,11 @@
                   <!-- <h1><span>e</span>Business</h1> -->
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo-short.png" style="width: 150px; max-width: 150%; height: 90px; max-height: 80%;" alt="" title=""> -->
-                  <img src="img/logo-short.png" style="width: 230px; height: 45px;" alt="" title="">
+                  <img src="img/logo-short1.png" style="width: 210px; height: 45px;" alt="" title="">
                 </a>
               </div>
               <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
+              <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example col-xs-12">
                 <ul class="nav navbar-nav navbar-right">
                   <li class="active"><a class="page-scroll" href="#home">Home</a></li>
                   <li><a class="page-scroll" href="#about">About</a></li>
@@ -140,7 +140,7 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2"></h1>
+                  <h1 class="title2">Fueled by joy</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -396,7 +396,7 @@
   </div>
   <!-- End Service area -->
 
-  <!-- Start Blog Area -->
+  <!-- Start Facilities Area -->
   <div id="facilities" class="blog-area">
     <div class="blog-inner area-padding">
       <div class="blog-overly"></div>
@@ -445,7 +445,7 @@
       </div>
     </div>
   </div>
-  <!-- End Blog -->
+  <!-- End Facilities -->
 
   <!-- Start customer Area -->
   <div id="customers" class="portfolio-area area-padding fix">
