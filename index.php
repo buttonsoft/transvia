@@ -161,7 +161,7 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best business Information </h2>
+                  <h2 class="title1">The Best Business Information </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -278,7 +278,7 @@
               </table>
             </div>
           </div>
-        </div>        
+        </div>
 
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="well-middle">
@@ -288,7 +288,7 @@
                 <li>
                   <p>To be the integrated transportation company with the goal to serve the logistic needs of our customers and provide the best service to our customers.</p>
                 </li>
-                
+
               </ul>
               <h4 class="sec-head">Company Mision</h4>
               <ul>
@@ -348,7 +348,7 @@
                     Volume : 30 m3<br>
                     Type   : Retail, chartered<br>
                     *) Area service java [city to city]
-                  </p>                    
+                  </p>
                 </div>
               </div>
               <!-- end about-details -->
